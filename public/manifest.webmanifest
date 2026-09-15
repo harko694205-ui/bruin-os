@@ -1,0 +1,16 @@
+{
+  "name": "Bruin OS — Academic Command Center",
+  "short_name": "Bruin OS",
+  "description": "Classes, deadlines, syllabus import, and focus sessions in one place.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f2438",
+  "theme_color": "#0f2438",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
